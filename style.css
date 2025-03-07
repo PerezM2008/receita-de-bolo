@@ -1,0 +1,30 @@
+H1{
+    TEXT-ALIGN: CENTER;
+    color: white;
+    
+  }
+h2{
+     TEXT-ALIGN: CENTER;
+    color: pink;
+  }
+div{
+    text-align: center;
+  }
+  
+body{
+    background-color: linear-gradient( to right, brown, orange, pink);
+}
+body{
+    background: linear-gradient( to right, brown, orange, pink);
+  }
+h3{
+    color: white;
+  }
+ul{
+    color: #F5F6DC;
+  }
+img{
+    filter: drop-shadow(0 0 1rem Yellow);
+      box-shadow: 1px 1px 1rem Yellow;
+    border-image: 30px ;
+  }
